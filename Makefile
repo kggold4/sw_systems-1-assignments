@@ -4,7 +4,7 @@ CC = gcc
 WGC = -Wall -g -c
 
 # make static library called libmyMath.a
-mymaths: libmyMath.a	
+mymaths: libmyMath.a
 libmyMath.a: basicMath.o power.o
 	ar -rcs libmyMath.a basicMath.o power.o	
 
