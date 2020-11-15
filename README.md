@@ -2,7 +2,7 @@
 ## by Kfir Goldfarb
 
 this assignments contains basicMath.c and power.c files that implements the myMath.h file function,
-also this program contains main.c that will get from the user 3 input x and will calculate this three function and print the results:
+also this program contains main.c that will get from the user double input x and will calculate this three function and print the results:
 1. e^x + x^3 - 2
 2. 3x + 2x^2
 3. (4x^3) / 5 - 2x
